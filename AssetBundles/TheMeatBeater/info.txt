@@ -1,0 +1,3 @@
+The Meat Beater
+VxWolf, RexTheWho
+An example map to demonstrate custom maps work for H3VR (And also to shill the ModWorkshop Website)
